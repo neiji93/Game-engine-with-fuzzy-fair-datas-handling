@@ -8,3 +8,4 @@ notice that enhancement by ingeneers would be set on a single class function. th
 this would help : https://www.google.com/search?q=clifford+algebra+%22motionless%22&client=ms-android-xiaomi-terr1-rso2&sca_esv=88df517020fa2be8&udm=36&sxsrf=ADLYWILGWGUtii84m0XOZac0AcGeifqt3w%3A1736663925791&ei=dWODZ_aAMK7V7M8Pwu6H6Q8&oq=clifford+algebra+%22motionless%22&gs_lp=EhNtb2JpbGUtZ3dzLW1vZGVsZXNzIh1jbGlmZm9yZCBhbGdlYnJhICJtb3Rpb25sZXNzIjIFEAAY7wUyBRAAGO8FMgUQABjvBUjrMFC5F1jYLXAAeACQAQCYAZcBoAGpA6oBAzAuM7gBA8gBAPgBAZgCA6AC2wPCAggQABiwAxjvBcICBRAhGKABmAMAiAYBkAYDkgcDMC4zoAfNCQ&sclient=mobile-gws-modeless
 
 formulas provided by milos milic
+he said this is possible but we can discuss the correctness of a given formula 
